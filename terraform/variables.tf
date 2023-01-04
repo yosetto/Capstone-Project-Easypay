@@ -1,6 +1,6 @@
 variable "aws_region" {
    description = "AWS Region to launch servers"
-   default = "eu-central-1"
+   default = "us-east-1"
 }
 
 variable "aws_access_key" {
