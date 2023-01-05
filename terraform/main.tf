@@ -10,7 +10,7 @@ provider "aws" {
 # private_key_file and public_key_file which are exposed to the user).
 module "cluster" {
   source  = "weibeld/kubeadm/aws"
-  version = "0.0.2"
+  version = "0.2.5"
   
    master_instance_type = "t2.micro"
    worker_instance_type = "t2.micro"
