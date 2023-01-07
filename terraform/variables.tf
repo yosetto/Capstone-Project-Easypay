@@ -5,17 +5,17 @@ variable "aws_region" {
 
 variable "aws_access_key" {
    description = "AWS User Access Key"
-   default = "ASIARDEHJGIYOPEY4YFU"
+   default = "ASIARDEHJGIYJASBUXUU"
 }
 
 variable "aws_secret_key" {
    description = "AWS User Secret Key"
-   default = "K/l2YT3n3XlLLg/rOPjOM2XORly1OwBLpk0FfLI3"
+   default = "lqb1hVv9+4QJTK1CKeK4Q6y9WxWcfg9TYFuBMWRv"
 }
 
 variable "aws_api_token" {
    description = "AWS API Token"
-   default = "FwoGZXIvYXdzEO///////////wEaDM87kDSIH7A/tLKJECK1ASVNMg7XxQDkoSmNJWxNgFnPXuBblml4ezgd3Gk7Hr2nRhgl9HJ0axRhgEkm5wn7jSnHmJrSOFlgFVa7uQKpypZEDx0XDRKlLXwCH7sL6xWICyrSHp/I0nABjIoGcvkj98GD099WkxvVcxQXknm48WrbAZZLoLERIW8IJbd45FEHWtnZaOHjFrierwcYvHLn171V5ALHnwSxgNV2v9zQDeEWKul6ouBxdLQ18Z8+ZMhSq+VReREou6/inQYyLaCKGGbB0tvMVfhjAXQcqVSMMV+1SaCr3zK/LbzGE4ec0RNrCpDZmcqkHddczQ=="
+   default = "FwoGZXIvYXdzEAQaDKZHdOwF2NPrUKsNiiK1AYCrtx9j+2UERQ9vSEOruIfZOnPOVcxhsmL8UO0SrhU7W7jnazJ/rwRGIjbavH98HYuSAamKLnjRcJn1ccXAlkrHp2GKHgAog7XT6j9ZoZZ2v3VoLoZOq0/O0iO6KAiTM1ISt86wYGlrlZsreNeeZ+OqzcJH4iTH/NjEZpQbXJjR4IoF4zz+zqehnx67i5FN5DglnxJPO05gpAH1TQbkaW04MWa448GbxZN38Cvak2IZO9TfUXQo6oLnnQYyLWiq7Yk5V6FObRl7siK7h9c7OJ+36nkRTUtGg+Es/awwVndxlPFjlVBPbAFZJg=="
 }
 
 variable "num_workers" {
