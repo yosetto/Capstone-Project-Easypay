@@ -5,12 +5,12 @@ variable "aws_region" {
 
 variable "aws_access_key" {
    description = "AWS User Access Key"
-   default = "ASIARDEHJGIYJASBUXUU"
+   default = "AKIA2FNDZX2HOVCQBAOM"
 }
 
 variable "aws_secret_key" {
    description = "AWS User Secret Key"
-   default = "lqb1hVv9+4QJTK1CKeK4Q6y9WxWcfg9TYFuBMWRv"
+   default = "o1YTQQltqZTY7y++ZKkqYXYzmRdSdEFYJbVAXMww"
 }
 
 variable "aws_api_token" {
