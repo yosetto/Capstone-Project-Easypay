@@ -1,1 +1,6 @@
-masters
+[masters]
+master ansible_host=44.210.52.255 ansible_user=ubuntu
+
+[workers]
+worker1 ansible_host=44.211.71.162 ansible_user=ubuntu
+worker2 ansible_host=34.205.64.141 ansible_user=ubuntu
