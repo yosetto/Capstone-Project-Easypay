@@ -1,0 +1,4 @@
+- hosts: masters
+  roles:
+  - name: "Easypay Wordpress deployment"
+    role: /Capstone-project-easypay/ansible/wordpress
